@@ -1,1 +1,2 @@
-Our first language in BSCS 1 IN USeP is c++
+Our first language in BSCS 1 FIRST SEMESTER IN USeP is c++
+THIS IS BASIC PROGRAMMING STRUCTURE IN C++
