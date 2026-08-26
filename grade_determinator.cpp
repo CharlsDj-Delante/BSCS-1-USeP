@@ -6,43 +6,43 @@ using namespace std;
 void determinator (int grade){
 		if (grade == 1 )
 		{
-			cout<<" 1            98-100             excellent          passed";
+			cout<<" 1            98-100             excellent          passed"<<endl;
 		}
 		if (grade == 1.25 )
 		{
-			cout<<" 1.25         95-97             outstanding         passed";
+			cout<<" 1.25         95-97             outstanding         passed"<<endl;
 		}
 		if (grade == 1.50 )
 		{
-			cout<<" 1.50         92-94              verygood           passed";
+			cout<<" 1.50         92-94              verygood           passed"<<endl;
 		} 
 		if (grade == 1.75 )
 		{
-			cout<<" 1.75         89-91              verysatisfaction   passed";
+			cout<<" 1.75         89-91              verysatisfaction   passed"<<endl;
 		}
 		if (grade == 2)
 		{
-			cout<<" 2            86-88              quite good         passed";
+			cout<<" 2            86-88              quite good         passed";<<endl;
 		}
 		if (grade == 2.25 )
 		{
-			cout<<" 2.25         83-85              good               passed";
+			cout<<" 2.25         83-85              good               passed"<<endl;
 		}
 		if (grade == 2.5 )
 		{
-			cout<<" 2.5          80-82             satisfactory        passed";
+			cout<<" 2.5          80-82             satisfactory        passed"<<endl;
 		}
 		if (grade == 2.75 )
 		{
-			cout<<" 2.75         77-79             moderatelysatisfa.. passed";
+			cout<<" 2.75         77-79             moderatelysatisfa.. passed"<<endl;
 		}
 		if (grade == 3 )
 		{
-			cout<<" 3            75-76             passing             passed";
+			cout<<" 3            75-76             passing             passed"<<endl;
 		}
 		if (grade == 5 )
 		{
-			cout<<" 5            below 75          failure             failed ";
+			cout<<" 5            below 75          failure             failed "<<endl;
 		}
 	}
 	
